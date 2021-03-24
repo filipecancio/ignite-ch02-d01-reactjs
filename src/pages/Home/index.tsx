@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MdAddShoppingCart } from 'react-icons/md';
+import { MdAddShoppingCart } from 'react-icons/md'; 
 
 import { ProductList } from './styles';
 import { api } from '../../services/api';
